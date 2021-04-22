@@ -1,0 +1,274 @@
+{
+    "1": {
+        "name": {"fname": "praveen", "lname": "sharma"},
+        "educations":[
+            {"courseName": "btech", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "delhi technical university"}
+        ],
+        "companies": [
+            {"name": "accolite", "monthsWorked": "6"},
+            {"name": "microsoft", "monthsWorked": "12"}
+        ],
+        "skills": [
+            {"name": "java"},
+            {"name": "nosql"},
+            {"name": "mongodb"},
+            {"name": "couchbase"},
+            {"name": "redis"}
+        ],
+        "locations": [
+            {"name": "delhi"},
+            {"name": "noida"},
+            {"name": "gurugram"}
+        ],
+        "totalWorkExperience": "4",
+        "email": "dce.pks@gmail.com"
+    },
+    "2": {
+        "name": {"fname": "satyam", "lname": "satil"},
+        "educations":[
+            {"courseName": "btech", "courseTypeEnum": "FULL_TIME"},
+            {"courseName": "mtech", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "delhi university"},
+            {"name": "ip university"}
+        ],
+        "companies": [
+            {"name": "adobe", "monthsWorked": "6"},
+            {"name": "tcs", "monthsWorked": "12"}
+        ],
+        "skills": [
+            {"name": "java servlets"},
+            {"name": "servlets"},
+            {"name": "java"},
+            {"name": "spring mvc"},
+            {"name": "rdbms"},
+            {"name": "mysql"}
+        ],
+        "locations": [
+            {"name": "delhi"},
+            {"name": "noida"},
+            {"name": "banglore"}
+        ],
+        "totalWorkExperience": "2",
+        "email": "satyam.patil@gmail.com"
+    },
+    "3": {
+        "name": {"fname": "deepak", "lname": "chauhan"},
+        "educations":[
+            {"courseName": "btech", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "nit delhi"}
+        ],
+        "companies": [
+        ],
+        "skills": [
+            {"name": "redis"},
+            {"name": "java"},
+            {"name": "mysql"}
+        ],
+        "locations": [
+            {"name": "delhi"}
+        ],
+        "totalWorkExperience": "0",
+        "email": "aman@gmail.com"
+    },
+    "4": {
+        "name": {"fname": "abhishek", "lname": "kumar"},
+        "educations":[
+            {"courseName": "btech", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "ip university"}
+        ],
+        "companies": [
+            {"name": "adobe", "monthsWorked": "6"}
+        ],
+        "skills": [
+            {"name": "mysql"},
+            {"name": "cassandra"},
+            {"name": "gradle"}
+        ],
+        "locations": [
+            {"name": "delhi"},
+            {"name": "noida"}
+        ],
+        "totalWorkExperience": "7",
+        "email": "abhikumar1707@gmail.com"
+    },
+    "5": {
+        "name": {"fname": "sumit", "lname": "chakraborty"},
+        "educations":[
+            {"courseName": "btech", "courseTypeEnum": "FULL_TIME"},
+            {"courseName": "mtech", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "nit delhi"},
+            {"name": "iit delhi"}
+        ],
+        "companies": [
+            {"name": "tcs", "monthsWorked": "12"}
+        ],
+        "skills": [
+            {"name": "nosql"},
+            {"name": "couchdb"},
+            {"name": "maven"},
+            {"name": "hibernate"},
+            {"name": "java"}
+        ],
+        "locations": [
+            {"name": "mumbai"},
+            {"name": "chennai"}
+        ],
+        "totalWorkExperience": "1",
+        "email": "aman@gmail.com"
+    },
+    "6": {
+        "name": {"fname": "harsh", "lname": "gupta"},
+        "educations":[
+            {"courseName": "bca", "courseTypeEnum": "FULL_TIME"},
+            {"courseName": "mca", "courseTypeEnum": "DISTANCE_LEARNING"}
+        ],
+        "colleges": [
+            {"name": "nit tirchy"},
+            {"name": "ip university"}
+        ],
+        "companies": [
+            {"name": "infosys", "monthsWorked": "12"}
+        ],
+        "skills": [
+            {"name": "java"},
+            {"name": "rdbms"},
+            {"name": "mongodb"},
+            {"name": "hibernate"},
+            {"name": "spring"},
+            {"name": "maven"},
+            {"name": "couchbase"},
+            {"name": "redis"}
+        ],
+        "locations": [
+            {"name": "mumbai"}
+        ],
+        "totalWorkExperience": "2",
+        "email": "hg13190@gmail.com"
+    },
+    "7": {
+        "name": {"fname": "athira", "lname": "raj"},
+        "educations":[
+            {"courseName": "bca", "courseTypeEnum": "DISTANCE_LEARNING"},
+            {"courseName": "btech", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "nit tirchy"},
+            {"name": "delhi university"}
+        ],
+        "companies": [
+            {"name": "oracle", "monthsWorked": "24"},
+            {"name": "tcs", "monthsWorked": "17"}
+        ],
+        "skills": [
+            {"name": "mariadb"},
+            {"name": "sqlite"},
+            {"name": "java servlets"},
+            {"name": "hibernate"},
+            {"name": "java"},
+            {"name": "couchdb"},
+            {"name": "nosql"}
+        ],
+        "locations": [
+            {"name": "banglore"},
+            {"name": "chennai"},
+            {"name": "noida"}
+        ],
+        "totalWorkExperience": "4",
+        "email": "athirarajm22@gmail.com"
+    },
+    "8": {
+        "name": {"fname": "harshit", "lname": "kesar"},
+        "educations":[
+            {"courseName": "mca", "courseTypeEnum": "FULL_TIME"},
+            {"courseName": "bsc", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "delhi university"},
+            {"name": "ip university"}
+        ],
+        "companies": [
+            {"name": "microsoft", "monthsWorked": "24"},
+            {"name": "tcs", "monthsWorked": "17"}
+        ],
+        "skills": [
+            {"name": "java"},
+            {"name": "couchbase"},
+            {"name": "nosql"},
+            {"name": "mvc"}
+        ],
+        "locations": [
+            {"name": "banglore"},
+            {"name": "delhi"}
+        ],
+        "totalWorkExperience": "4",
+        "email": "harshit.kesar@accolitedigital.com"
+    },
+    "9": {
+        "name": {"fname": "arvind", "lname": "kumar"},
+        "educations":[
+            {"courseName": "bca", "courseTypeEnum": "DISTANCE_LEARNING"},
+            {"courseName": "btech", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "nit tirchy"},
+            {"name": "delhi university"}
+        ],
+        "companies": [
+            {"name": "oracle", "monthsWorked": "24"},
+            {"name": "tcs", "monthsWorked": "17"}
+        ],
+        "skills": [
+            {"name": "mariadb"},
+            {"name": "sqlite"},
+            {"name": "java servlets"},
+            {"name": "java"},
+            {"name": "couchdb"}
+        ],
+        "locations": [
+            {"name": "banglore"},
+            {"name": "chennai"},
+            {"name": "noida"}
+        ],
+        "totalWorkExperience": "4",
+        "email": "arvind.kumar@gmail.com"
+    },
+    "10": {
+        "name": {"fname": "aman", "lname": "sharma"},
+        "educations":[
+            {"courseName": "bca", "courseTypeEnum": "DISTANCE_LEARNING"},
+            {"courseName": "btech", "courseTypeEnum": "FULL_TIME"}
+        ],
+        "colleges": [
+            {"name": "nit tirchy"},
+            {"name": "delhi university"}
+        ],
+        "companies": [
+            {"name": "oracle", "monthsWorked": "24"},
+            {"name": "tcs", "monthsWorked": "17"}
+        ],
+        "skills": [
+            {"name": "mariadb"},
+            {"name": "java servlets"},
+            {"name": "hibernate"},
+            {"name": "java"},
+            {"name": "nosql"}
+        ],
+        "locations": [
+            {"name": "banglore"},
+            {"name": "noida"}
+        ],
+        "totalWorkExperience": "4",
+        "email": "aman.sharma@gmail.com"
+    }
+}

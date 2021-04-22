@@ -1,0 +1,37 @@
+{
+    "1": {
+        "jobTitle": "Software Developer",
+        "minWorkExperience": 3,
+        "maxWorkExperience": 5,
+        "locations":[
+            "Delhi","Banglore"
+        ],
+        "qualifications":[
+            {"courseName": "Btech", "courseType": "FULL_TIME"},
+            {"courseName": "Mtech", "courseType": "FULL_TIME"}
+        ],
+        "collegeTiers": [
+            "TIER1",
+            "TIER3"
+        ],
+        "companyTiers": [
+            "TIER1",
+            "TIER2"
+        ],
+        "companyTypes": [
+            "PRODUCT_BASED",
+            "SERVICE_BASED"
+        ],
+        "skills": [
+            {"name": "java", "weight": 6, "subSkills": [
+                {"name": "java", "weight": 7},
+                {"name": "mvc", "weight": 8}
+            ]},
+            {"name": "c++", "weight": 7, "subSkills": [
+                {"name": "c", "weight": 3},
+                {"name": "c++", "weight": 9}
+            ]}
+        ]
+    }
+
+}
