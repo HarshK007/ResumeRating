@@ -8,7 +8,7 @@
             {"name": "delhi technical university"}
         ],
         "companies": [
-            {"name": "accolite", "monthsWorked": "6"},
+            {"name": "tcs", "monthsWorked": "6"},
             {"name": "microsoft", "monthsWorked": "12"}
         ],
         "skills": [
@@ -212,7 +212,7 @@
             {"name": "delhi"}
         ],
         "totalWorkExperience": "4",
-        "email": "harshit.kesar@accolitedigital.com"
+        "email": "harshitkesar007@gmail.com"
     },
     "9": {
         "name": {"fname": "arvind", "lname": "kumar"},

@@ -17,7 +17,7 @@ public class MapperMain {
         //company mapper
         List<CompanyMapper> companyMapperArrayList =  new ArrayList<>();
         companyMapperArrayList.add(new CompanyMapper("microsoft", CompanyTierEnum.TIER1, CompanyTypeEnum.PRODUCT_BASED));
-        companyMapperArrayList.add(new CompanyMapper("accolite", CompanyTierEnum.TIER2, CompanyTypeEnum.SERVICE_BASED));
+        companyMapperArrayList.add(new CompanyMapper("wipro", CompanyTierEnum.TIER2, CompanyTypeEnum.SERVICE_BASED));
         companyMapperArrayList.add(new CompanyMapper("oracle", CompanyTierEnum.TIER1, CompanyTypeEnum.PRODUCT_BASED));
         companyMapperArrayList.add(new CompanyMapper("adobe", CompanyTierEnum.TIER1, CompanyTypeEnum.PRODUCT_BASED));
         companyMapperArrayList.add(new CompanyMapper("tCS", CompanyTierEnum.TIER1, CompanyTypeEnum.SERVICE_BASED));
